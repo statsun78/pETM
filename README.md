@@ -11,3 +11,7 @@ Penalized Exponential Tilt Model: Fit a penalized exponential tilt model (ETM) t
 library(devtools)
 install_github("statsun78/pETM")
 ```
+
+## References
+
+* **Sun, H.**, Wang, Y., Chen, Y., Li, Y. and Wang, S. (2017) pETM: a penalized Exponential Tilt Model for analysis of correlated high-dimensional DNA methylation data, *Bioinformatics* 33(12), p.1765-1772
