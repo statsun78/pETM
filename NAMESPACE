@@ -1,0 +1,7 @@
+useDynLib("pETM")
+importFrom(utils,head,tail,packageDescription)
+import(Matrix)
+export(pETM)
+
+
+

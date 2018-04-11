@@ -1,0 +1,11 @@
+Package: pETM
+Type: Package
+Title: Penalized Exponential Tilt Model 
+Version: 0.2
+Author: Hokeun Sun 
+Maintainer: Hokeun Sun <hsun@pusan.ac.kr>
+Depends: Matrix (>= 1.0-6), utils
+Description: In analysis of high-dimensional DNA methylation data, a penalized exponential tilt model can identify differentially methylated loci between cases and controls, using network based regularization. It is able to detect any differences in means only, in variances only or in both means and variances.    
+License: GPL-2
+Encoding: UTF-8
+LazyData: FALSE
