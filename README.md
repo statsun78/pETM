@@ -8,7 +8,7 @@ Penalized Exponential Tilt Model: Fit a penalized exponential tilt model (ETM) t
 ## Installation
 
 ```
-## "devtools" pacakge is required if you don't have it.  
+## "devtools" package is required if you don't have it.  
 install.packages('devtools')
 
 ## For window users, you need to download and install Rtools from https://cran.r-project.org/bin/windows/Rtools
