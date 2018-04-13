@@ -11,7 +11,7 @@ Penalized Exponential Tilt Model: Fit a penalized exponential tilt model (ETM) t
 ## "devtools" package is required if you don't have it.  
 install.packages('devtools')
 
-## For window users, you need to download and install Rtools from https://cran.r-project.org/bin/windows/Rtools
+## For Windows users, you need to download and install Rtools from https://cran.r-project.org/bin/windows/Rtools
 
 library(devtools)
 install_github("statsun78/pETM")
